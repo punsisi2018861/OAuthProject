@@ -2,7 +2,7 @@
 
 1. Download PyCharm/ Spyder
 2. Open the project
-3. If an error coccur with the master-card package , runn the below command in the terminal
+3. run the below command in the terminal
 
 ```python
 pip install mastercard-oauth1-signer
