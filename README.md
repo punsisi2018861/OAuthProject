@@ -1,7 +1,7 @@
 # OAuthProject
 
-1. Download PyCharm/ Spyder
-2. Open the project
+1. Download PyCharm/ Spyder - https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
+2. Open the project from pycharm
 3. run the below command in the terminal
 
 ```python
