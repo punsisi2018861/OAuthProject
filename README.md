@@ -13,3 +13,11 @@ pip install mastercard-oauth1-signer
 4. run the file
 
 ![image](https://user-images.githubusercontent.com/42572566/175645879-adaf2a3e-8dca-45a7-aa30-58f4c9630ece.png)
+
+
+
+# OAuthProject- JAVA
+
+1. unzip the OAuthProjectJava.zip file in a different folder and run the spring boot aplication
+
+![image](https://user-images.githubusercontent.com/42572566/175646654-32f1d12a-292d-478f-882e-8801e35486da.png)
